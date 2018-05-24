@@ -1,1 +1,1 @@
-# WP-The-begining
+# WP-The-beginning
